@@ -21,6 +21,10 @@ TUI calculator
 
 What you see is what you get. After exiting (ctrl+c?), echo the entire calcualtion log to cli.
 
+## readme
+
+https://github.com/gdamore/tcell/blob/main/TUTORIAL.md
+
 ## Status
 
 Nothing implemented yet.
