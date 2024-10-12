@@ -13,6 +13,10 @@ TUI calculator
     │ 0  .  =  + │
     ╰────────────╯
 
+## How would that look like in terminal?
+
+    curl https://raw.githubusercontent.com/brontosaurusrex/kaltoy/refs/heads/main/gui_txt/gui2.txt
+
 ## Basic functonality
 
 What you see is what you get. After exiting (ctrl+c?), echo the entire calcualtion log to cli.
