@@ -23,7 +23,8 @@ What you see is what you get. After exiting (ctrl+c?), echo the entire calcualti
 
 ## readme
 
-https://github.com/gdamore/tcell/blob/main/TUTORIAL.md
+https://github.com/gdamore/tcell/blob/main/TUTORIAL.md  
+https://github.com/timotheeMM/online-calculator
 
 ## Status
 
